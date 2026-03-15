@@ -1,0 +1,501 @@
+﻿id_empresa,nome_fantasia,municipio,segmento,data_abertura,numero_funcionarios,faturamento_anual,status
+1,Empresa 1 LTDA,Joinville,Turismo,2023-02-17,103,1884678.63,Ativo
+2,Empresa 2 LTDA,Florianópolis,Comércio,2019-10-11,93,4073357.86,Ativo
+3,Empresa 3 LTDA,Criciúma,Turismo,2021-01-11,15,4738880.46,Ativo
+4,Empresa 4 LTDA,Chapecó,Tecnologia,2012-01-18,107,4930705.27,Ativo
+5,Empresa 5 LTDA,Chapecó,Indústria,2020-07-17,72,3779222.02,Ativo
+6,Empresa 6 LTDA,Blumenau,Agronegócio,2017-10-21,21,1912484.95,Ativo
+7,Empresa 7 LTDA,Joinville,Turismo,2019-02-28,103,463328.55,Ativo
+8,Empresa 8 LTDA,Jaraguá do Sul,Turismo,2017-06-23,122,3896877.23,Ativo
+9,Empresa 9 LTDA,Joinville,Agronegócio,2017-03-15,75,2814101.04,Ativo
+10,Empresa 10 LTDA,,Indústria,2012-05-06,88,2149898.95,Ativo
+11,Empresa 11 LTDA,São José,Tecnologia,2013-08-10,117,4536454.21,Ativo
+12,Empresa 12 LTDA,Florianópolis,Comércio,2017-05-25,100,600427.54,Suspenso
+13,Empresa 13 LTDA,Florianópolis,Turismo,2019-03-27,104,2488494.27,Ativo
+14,Empresa 14 LTDA,Joinville,Indústria,2021-02-10,131,106200.54,Ativo
+15,Empresa 15 LTDA,Chapecó,Comércio,2016-06-19,53,2369870.18,Inativo
+16,Empresa 16 LTDA,Chapecó,Comércio,2018-12-25,2,,Ativo
+17,Empresa 17 LTDA,Jaraguá do Sul,Comércio,2022-05-04,88,638148.69,Ativo
+18,Empresa 18 LTDA,Balneário Camboriú,Tecnologia,2010-10-28,38,631754.92,Ativo
+19,Empresa 19 LTDA,Florianópolis,Tecnologia,2020-03-14,130,3263591.0,Ativo
+20,Empresa 20 LTDA,Jaraguá do Sul,Comércio,2011-12-23,21,3742922.15,Ativo
+21,Empresa 21 LTDA,Chapecó,Serviços,2017-01-20,58,2937675.39,Ativo
+22,Empresa 22 LTDA,Jaraguá do Sul,Agronegócio,2015-08-30,22,4812754.11,Ativo
+23,Empresa 23 LTDA,São José,Tecnologia,2017-04-02,89,1905609.37,Ativo
+24,Empresa 24 LTDA,Chapecó,Serviços,2012-08-07,49,1464274.83,Ativo
+25,Empresa 25 LTDA,Lages,Serviços,2019-01-25,59,4349565.68,Ativo
+26,Empresa 26 LTDA,Balneário Camboriú,Turismo,2021-07-17,15,1156799.4,Ativo
+27,Empresa 27 LTDA,Criciúma,Agronegócio,2010-01-10,51,4817951.57,Ativo
+28,Empresa 28 LTDA,Florianópolis,Comércio,2022-03-03,108,110164.65,Ativo
+29,Empresa 29 LTDA,Blumenau,Turismo,2020-05-12,55,,Ativo
+30,Empresa 30 LTDA,São José,Turismo,2019-04-09,64,263641.56,Ativo
+31,Empresa 31 LTDA,Itajaí,Serviços,2011-03-21,131,4461158.41,Ativo
+32,Empresa 32 LTDA,Criciúma,Serviços,2014-03-17,51,2662120.49,Ativo
+33,Empresa 33 LTDA,Blumenau,Serviços,2021-08-18,135,4965175.74,Ativo
+34,Empresa 34 LTDA,Chapecó,Comércio,2018-02-11,21,415293.0,Ativo
+35,Empresa 35 LTDA,Itajaí,Comércio,2021-03-07,73,2791578.71,Ativo
+36,Empresa 36 LTDA,Joinville,Turismo,2019-12-01,18,4848047.55,Ativo
+37,Empresa 37 LTDA,Joinville,Turismo,2011-02-27,132,2639334.33,Ativo
+38,Empresa 38 LTDA,São José,Tecnologia,2014-07-26,89,3165523.26,Ativo
+39,Empresa 39 LTDA,Joinville,Tecnologia,2015-12-28,60,3493956.01,Suspenso
+40,Empresa 40 LTDA,Itajaí,Serviços,2022-04-27,14,2299978.27,Ativo
+41,Empresa 41 LTDA,,Comércio,2012-12-09,9,3156412.5,Inativo
+42,Empresa 42 LTDA,Balneário Camboriú,Comércio,2016-06-17,90,2942355.84,Ativo
+43,Empresa 43 LTDA,,Turismo,2019-10-30,53,4510732.15,Ativo
+44,Empresa 44 LTDA,Florianópolis,Agronegócio,2020-11-14,130,274959.58,Ativo
+45,Empresa 45 LTDA,Lages,Serviços,2012-09-21,84,1440767.79,Ativo
+46,Empresa 46 LTDA,Jaraguá do Sul,Tecnologia,2010-08-25,92,4754536.85,Ativo
+47,Empresa 47 LTDA,Joinville,Agronegócio,2023-08-28,111,4456805.73,Ativo
+48,Empresa 48 LTDA,São José,Comércio,2015-05-15,8,2305500.93,Ativo
+49,Empresa 49 LTDA,Joinville,Tecnologia,2013-07-21,35,3119656.36,Ativo
+50,Empresa 50 LTDA,Jaraguá do Sul,Serviços,2016-12-20,81,1423036.86,Inativo
+51,Empresa 51 LTDA,Criciúma,Comércio,2022-05-10,50,981199.74,Ativo
+52,Empresa 52 LTDA,Balneário Camboriú,Serviços,2010-04-23,104,2345307.1,Ativo
+53,Empresa 53 LTDA,Itajaí,Turismo,2022-05-22,132,1799093.53,Ativo
+54,Empresa 54 LTDA,Balneário Camboriú,Agronegócio,2019-02-25,2,2939097.75,Ativo
+55,Empresa 55 LTDA,Chapecó,Agronegócio,2012-02-03,134,434786.45,Ativo
+56,Empresa 56 LTDA,Joinville,Agronegócio,2015-01-15,54,4873254.3,Ativo
+57,Empresa 57 LTDA,Florianópolis,Indústria,2012-07-18,106,4931743.19,Ativo
+58,Empresa 58 LTDA,Chapecó,Serviços,2020-05-08,4,,Ativo
+59,Empresa 59 LTDA,Criciúma,Agronegócio,2012-08-20,54,2703677.01,Ativo
+60,Empresa 60 LTDA,Joinville,Turismo,2013-06-15,146,1582161.7,Suspenso
+61,Empresa 61 LTDA,Chapecó,Agronegócio,2021-03-06,44,4078285.35,Ativo
+62,Empresa 62 LTDA,Joinville,Serviços,2016-07-18,14,,Ativo
+63,Empresa 63 LTDA,São José,Agronegócio,2021-05-31,95,854953.85,Ativo
+64,Empresa 64 LTDA,Criciúma,Serviços,2016-02-18,48,4559089.56,Ativo
+65,Empresa 65 LTDA,Lages,Comércio,2019-04-27,15,4121559.35,Ativo
+66,Empresa 66 LTDA,,Turismo,2020-10-27,40,4751509.57,Ativo
+67,Empresa 67 LTDA,Blumenau,Serviços,2020-08-04,82,3642311.57,Ativo
+68,Empresa 68 LTDA,Itajaí,Serviços,2015-06-20,111,3086405.22,Ativo
+69,Empresa 69 LTDA,Itajaí,Indústria,2020-03-30,53,2120303.03,Suspenso
+70,Empresa 70 LTDA,Chapecó,Comércio,2022-05-13,24,4667005.99,Ativo
+71,Empresa 71 LTDA,Criciúma,Turismo,2013-03-30,124,4337016.25,Ativo
+72,Empresa 72 LTDA,Joinville,Indústria,2018-08-09,41,273832.42,Ativo
+73,Empresa 73 LTDA,Balneário Camboriú,Agronegócio,2014-04-11,15,180516.52,Ativo
+74,Empresa 74 LTDA,Blumenau,Serviços,2023-06-12,45,1913493.67,Ativo
+75,Empresa 75 LTDA,Jaraguá do Sul,Turismo,2021-05-26,65,4062238.99,Inativo
+76,Empresa 76 LTDA,Chapecó,Comércio,2013-01-23,89,4937016.84,Ativo
+77,Empresa 77 LTDA,Blumenau,Indústria,2011-07-26,71,794563.61,Suspenso
+78,Empresa 78 LTDA,Lages,Serviços,2016-03-13,9,2990947.04,Ativo
+79,Empresa 79 LTDA,São José,Tecnologia,2019-04-23,88,1935409.74,Suspenso
+80,Empresa 80 LTDA,Criciúma,Turismo,2017-08-16,129,4851076.27,Ativo
+81,Empresa 81 LTDA,Jaraguá do Sul,Indústria,2021-05-22,136,4218488.67,Ativo
+82,Empresa 82 LTDA,Chapecó,Comércio,2015-12-29,63,4199727.09,Ativo
+83,Empresa 83 LTDA,Itajaí,Indústria,2010-01-22,139,2370031.14,Ativo
+84,Empresa 84 LTDA,Florianópolis,Indústria,2016-05-06,81,2103356.54,Ativo
+85,Empresa 85 LTDA,Chapecó,Indústria,2016-09-11,136,1403365.01,Ativo
+86,Empresa 86 LTDA,Florianópolis,Agronegócio,2023-03-02,33,329058.71,Ativo
+87,Empresa 87 LTDA,Itajaí,Tecnologia,2023-01-03,123,4330375.76,Ativo
+88,Empresa 88 LTDA,São José,Comércio,2020-12-25,5,4073860.0,Ativo
+89,Empresa 89 LTDA,Criciúma,Comércio,2013-05-02,41,4998602.48,Ativo
+90,Empresa 90 LTDA,Joinville,Comércio,2020-01-07,28,4983352.34,Ativo
+91,Empresa 91 LTDA,Chapecó,Serviços,2022-01-30,135,2799386.94,Ativo
+92,Empresa 92 LTDA,Balneário Camboriú,Turismo,2020-11-11,72,3856487.71,Ativo
+93,Empresa 93 LTDA,Itajaí,Comércio,2017-09-28,12,4726590.36,Suspenso
+94,Empresa 94 LTDA,Chapecó,Turismo,2017-06-16,33,4255754.58,Ativo
+95,Empresa 95 LTDA,Lages,Comércio,2022-05-19,48,1274373.1,Ativo
+96,Empresa 96 LTDA,São José,Tecnologia,2022-03-10,62,2280193.47,Ativo
+97,Empresa 97 LTDA,Lages,Serviços,2018-06-18,37,689339.1,Ativo
+98,Empresa 98 LTDA,Blumenau,Serviços,2020-03-19,99,4772552.58,Suspenso
+99,Empresa 99 LTDA,Criciúma,Indústria,2017-03-21,104,3050564.44,Ativo
+100,Empresa 100 LTDA,Blumenau,Agronegócio,2014-03-26,35,1181781.89,Ativo
+101,Empresa 101 LTDA,Chapecó,Serviços,2015-05-11,101,3374918.39,Inativo
+102,Empresa 102 LTDA,Jaraguá do Sul,Serviços,2022-10-29,131,3109734.79,Ativo
+103,Empresa 103 LTDA,Jaraguá do Sul,Tecnologia,2018-08-04,1,1822905.45,Ativo
+104,Empresa 104 LTDA,Criciúma,Comércio,2015-03-29,5,612110.08,Ativo
+105,Empresa 105 LTDA,Balneário Camboriú,Serviços,2019-03-20,142,3374287.32,Ativo
+106,Empresa 106 LTDA,São José,Serviços,2010-12-24,103,2625523.12,Suspenso
+107,Empresa 107 LTDA,Balneário Camboriú,Agronegócio,2017-02-19,27,3872976.04,Ativo
+108,Empresa 108 LTDA,São José,Turismo,2020-08-10,137,2624809.33,Ativo
+109,Empresa 109 LTDA,Itajaí,Tecnologia,2018-07-21,15,4268298.43,Ativo
+110,Empresa 110 LTDA,Chapecó,Agronegócio,2018-08-29,90,2781938.85,Suspenso
+111,Empresa 111 LTDA,Blumenau,Serviços,2013-05-31,42,2826642.96,Ativo
+112,Empresa 112 LTDA,Jaraguá do Sul,Serviços,2021-02-09,124,4389435.33,Ativo
+113,Empresa 113 LTDA,Lages,Tecnologia,2010-10-31,63,2047240.19,Ativo
+114,Empresa 114 LTDA,Joinville,Indústria,2012-10-31,96,713375.38,Ativo
+115,Empresa 115 LTDA,Florianópolis,Indústria,2021-04-07,52,192474.25,Suspenso
+116,Empresa 116 LTDA,Joinville,Serviços,2023-03-28,96,3787929.42,Ativo
+117,Empresa 117 LTDA,Blumenau,Serviços,2017-06-12,132,3120532.28,Ativo
+118,Empresa 118 LTDA,Blumenau,Agronegócio,2012-04-02,143,3535194.85,Ativo
+119,Empresa 119 LTDA,São José,Turismo,2019-11-16,29,1104172.6,Inativo
+120,Empresa 120 LTDA,Balneário Camboriú,Turismo,2012-03-27,36,725038.8,Ativo
+121,Empresa 121 LTDA,Joinville,Agronegócio,2021-10-18,13,121996.1,Ativo
+122,Empresa 122 LTDA,São José,Agronegócio,2020-04-01,71,1785408.42,Ativo
+123,Empresa 123 LTDA,São José,Comércio,2010-05-06,86,2970092.55,Ativo
+124,Empresa 124 LTDA,Balneário Camboriú,Serviços,2013-03-26,28,1991608.02,Ativo
+125,Empresa 125 LTDA,Lages,Comércio,2019-03-13,66,2215500.86,Ativo
+126,Empresa 126 LTDA,Jaraguá do Sul,Indústria,2013-06-18,45,4525585.54,Ativo
+127,Empresa 127 LTDA,Criciúma,Serviços,2011-09-05,62,1773864.56,Ativo
+128,Empresa 128 LTDA,Jaraguá do Sul,Serviços,2020-07-13,134,2594247.97,Ativo
+129,Empresa 129 LTDA,Florianópolis,Tecnologia,2015-12-12,28,3929082.41,Ativo
+130,Empresa 130 LTDA,Joinville,Serviços,2017-08-05,28,2012886.77,Inativo
+131,Empresa 131 LTDA,Jaraguá do Sul,Indústria,2018-12-01,108,3129329.17,Suspenso
+132,Empresa 132 LTDA,Criciúma,Turismo,2011-10-20,44,4318700.36,Ativo
+133,Empresa 133 LTDA,Itajaí,Turismo,2017-05-15,84,4750127.09,Ativo
+134,Empresa 134 LTDA,Joinville,Serviços,2021-12-20,30,778013.73,Ativo
+135,Empresa 135 LTDA,Criciúma,Turismo,2018-07-11,75,4636608.74,Ativo
+136,Empresa 136 LTDA,São José,Comércio,2017-02-07,128,2485975.65,Inativo
+137,Empresa 137 LTDA,Blumenau,Serviços,2020-12-11,92,1328309.72,Ativo
+138,Empresa 138 LTDA,Lages,Comércio,2022-02-19,129,2322721.99,Ativo
+139,Empresa 139 LTDA,Florianópolis,Agronegócio,2010-10-22,121,4901161.25,Ativo
+140,Empresa 140 LTDA,Criciúma,Agronegócio,2011-07-15,27,2488459.57,Ativo
+141,Empresa 141 LTDA,Jaraguá do Sul,Tecnologia,2015-04-08,121,1677320.47,Ativo
+142,Empresa 142 LTDA,Blumenau,Serviços,2016-06-12,116,3185334.23,Ativo
+143,Empresa 143 LTDA,Jaraguá do Sul,Agronegócio,2015-02-07,3,1238720.81,Ativo
+144,Empresa 144 LTDA,Joinville,Agronegócio,2012-01-11,103,425523.47,Ativo
+145,Empresa 145 LTDA,Criciúma,Turismo,2019-09-26,137,687954.62,Ativo
+146,Empresa 146 LTDA,Jaraguá do Sul,Tecnologia,2012-03-17,62,683826.9,Ativo
+147,Empresa 147 LTDA,Balneário Camboriú,Tecnologia,2012-04-03,51,801918.33,Ativo
+148,Empresa 148 LTDA,Chapecó,Turismo,2019-12-14,59,737194.5,Inativo
+149,Empresa 149 LTDA,Blumenau,Serviços,2013-09-24,118,3222329.99,Suspenso
+150,Empresa 150 LTDA,Itajaí,Comércio,2016-09-19,96,950306.42,Inativo
+151,Empresa 151 LTDA,Blumenau,Serviços,2010-08-26,113,1761053.05,Ativo
+152,Empresa 152 LTDA,Jaraguá do Sul,Comércio,2011-01-12,62,4489102.63,Ativo
+153,Empresa 153 LTDA,Jaraguá do Sul,Tecnologia,2017-04-11,52,2396110.12,Ativo
+154,Empresa 154 LTDA,Florianópolis,Indústria,2011-04-05,12,3354410.81,Ativo
+155,Empresa 155 LTDA,Balneário Camboriú,Serviços,2016-07-31,39,902983.36,Ativo
+156,Empresa 156 LTDA,Itajaí,Indústria,2018-01-15,130,1001830.64,Suspenso
+157,Empresa 157 LTDA,,Comércio,2018-05-29,131,252299.65,Ativo
+158,Empresa 158 LTDA,Florianópolis,Serviços,2019-08-30,113,886228.56,Ativo
+159,Empresa 159 LTDA,Joinville,Indústria,2013-04-07,101,1429022.18,Ativo
+160,Empresa 160 LTDA,Itajaí,Indústria,2015-06-24,113,926201.9,Suspenso
+161,Empresa 161 LTDA,Criciúma,Serviços,2021-11-30,81,489077.54,Ativo
+162,Empresa 162 LTDA,,Indústria,2019-03-30,113,647147.56,Ativo
+163,Empresa 163 LTDA,Florianópolis,Serviços,2022-09-11,2,2330854.9,Ativo
+164,Empresa 164 LTDA,Chapecó,Indústria,2014-01-15,130,1071351.91,Ativo
+165,Empresa 165 LTDA,Balneário Camboriú,Tecnologia,2013-10-24,54,1853135.81,Ativo
+166,Empresa 166 LTDA,Joinville,Serviços,2013-12-05,87,2541915.49,Ativo
+167,Empresa 167 LTDA,Joinville,Tecnologia,2011-10-09,129,3467454.4,Ativo
+168,Empresa 168 LTDA,Lages,Turismo,2023-09-02,147,244595.09,Ativo
+169,Empresa 169 LTDA,Joinville,Agronegócio,2018-07-31,126,4007081.47,Inativo
+170,Empresa 170 LTDA,Jaraguá do Sul,Tecnologia,2015-05-27,130,3158106.93,Ativo
+171,Empresa 171 LTDA,Blumenau,Indústria,2021-02-28,53,454707.21,Ativo
+172,Empresa 172 LTDA,Blumenau,Comércio,2023-01-30,68,4374214.19,Ativo
+173,Empresa 173 LTDA,Lages,Turismo,2013-03-18,123,4608318.38,Ativo
+174,Empresa 174 LTDA,Jaraguá do Sul,Tecnologia,2015-03-18,145,352335.9,Ativo
+175,Empresa 175 LTDA,Blumenau,Turismo,2020-05-05,38,1420544.36,Ativo
+176,Empresa 176 LTDA,Criciúma,Tecnologia,2015-09-12,24,4040696.33,Inativo
+177,Empresa 177 LTDA,Jaraguá do Sul,Tecnologia,2020-04-22,69,3753885.47,Ativo
+178,Empresa 178 LTDA,Balneário Camboriú,Comércio,2015-09-23,116,963379.05,Ativo
+179,Empresa 179 LTDA,São José,Comércio,2010-03-18,98,1086279.15,Ativo
+180,Empresa 180 LTDA,Chapecó,Tecnologia,2020-06-08,139,1883836.91,Ativo
+181,Empresa 181 LTDA,Jaraguá do Sul,Agronegócio,2016-06-14,144,2448388.78,Suspenso
+182,Empresa 182 LTDA,Chapecó,Comércio,2022-04-05,97,3110361.12,Ativo
+183,Empresa 183 LTDA,Criciúma,Comércio,2013-07-18,124,1876122.52,Ativo
+184,Empresa 184 LTDA,São José,Comércio,2011-08-29,70,2339546.84,Ativo
+185,Empresa 185 LTDA,Itajaí,Serviços,2019-11-28,93,3749981.14,Ativo
+186,Empresa 186 LTDA,Lages,Turismo,2017-10-01,3,231581.85,Ativo
+187,Empresa 187 LTDA,Jaraguá do Sul,Tecnologia,2023-03-07,148,1299562.87,Suspenso
+188,Empresa 188 LTDA,Lages,Agronegócio,2016-09-16,147,3581080.45,Ativo
+189,Empresa 189 LTDA,,Comércio,2019-07-08,90,4481273.85,Inativo
+190,Empresa 190 LTDA,Chapecó,Serviços,2015-08-11,147,2582803.34,Ativo
+191,Empresa 191 LTDA,Chapecó,Turismo,2020-03-31,148,2683961.75,Ativo
+192,Empresa 192 LTDA,Joinville,Indústria,2016-10-10,96,580501.46,Ativo
+193,Empresa 193 LTDA,Itajaí,Indústria,2014-06-20,52,2264691.22,Ativo
+194,Empresa 194 LTDA,Florianópolis,Comércio,2018-08-18,128,2686455.47,Ativo
+195,Empresa 195 LTDA,Balneário Camboriú,Agronegócio,2020-11-02,39,1250228.99,Ativo
+196,Empresa 196 LTDA,,Agronegócio,2012-05-23,82,1382753.99,Ativo
+197,Empresa 197 LTDA,Chapecó,Turismo,2015-04-28,104,1917556.61,Ativo
+198,Empresa 198 LTDA,Balneário Camboriú,Turismo,2018-07-22,129,149352.43,Ativo
+199,Empresa 199 LTDA,Chapecó,Tecnologia,2022-10-30,11,1644291.87,Ativo
+200,Empresa 200 LTDA,Florianópolis,Comércio,2018-01-19,42,1096667.63,Ativo
+201,Empresa 201 LTDA,Joinville,Indústria,2022-11-22,99,1671111.89,Inativo
+202,Empresa 202 LTDA,Florianópolis,Tecnologia,2016-08-20,7,642822.55,Ativo
+203,Empresa 203 LTDA,Chapecó,Agronegócio,2016-08-15,144,4458110.04,Ativo
+204,Empresa 204 LTDA,Joinville,Tecnologia,2010-06-29,90,2988282.65,Ativo
+205,Empresa 205 LTDA,Florianópolis,Indústria,2018-11-17,112,3411556.48,Inativo
+206,Empresa 206 LTDA,,Agronegócio,2016-02-27,60,3956397.63,Ativo
+207,Empresa 207 LTDA,Joinville,Turismo,2010-03-08,113,2517288.88,Ativo
+208,Empresa 208 LTDA,Jaraguá do Sul,Serviços,2022-09-11,2,480255.43,Ativo
+209,Empresa 209 LTDA,Chapecó,Serviços,2011-02-06,129,2708677.38,Ativo
+210,Empresa 210 LTDA,Criciúma,Turismo,2023-08-08,48,2954863.53,Ativo
+211,Empresa 211 LTDA,Lages,Comércio,2021-02-21,140,3739925.4,Ativo
+212,Empresa 212 LTDA,Chapecó,Tecnologia,2016-06-02,37,2186714.75,Ativo
+213,Empresa 213 LTDA,Jaraguá do Sul,Agronegócio,2015-03-01,9,681522.5,Ativo
+214,Empresa 214 LTDA,Blumenau,Turismo,2023-08-14,99,1454690.73,Ativo
+215,Empresa 215 LTDA,Balneário Camboriú,Turismo,2017-11-26,147,1847257.37,Inativo
+216,Empresa 216 LTDA,Balneário Camboriú,Comércio,2014-11-30,48,3247290.34,Ativo
+217,Empresa 217 LTDA,Lages,Tecnologia,2014-04-07,131,2875352.61,Inativo
+218,Empresa 218 LTDA,Chapecó,Turismo,2015-08-16,148,1812678.79,Inativo
+219,Empresa 219 LTDA,Lages,Indústria,2013-01-25,54,,Ativo
+220,Empresa 220 LTDA,São José,Turismo,2012-03-06,120,3048585.36,Ativo
+221,Empresa 221 LTDA,Chapecó,Agronegócio,2010-11-19,116,1224272.62,Ativo
+222,Empresa 222 LTDA,Joinville,Tecnologia,2016-12-05,75,553823.24,Ativo
+223,Empresa 223 LTDA,Joinville,Agronegócio,2019-11-21,113,806652.74,Ativo
+224,Empresa 224 LTDA,São José,Tecnologia,2010-10-01,104,1267490.76,Ativo
+225,Empresa 225 LTDA,Itajaí,Indústria,2022-12-31,84,845372.8,Ativo
+226,Empresa 226 LTDA,São José,Agronegócio,2018-03-08,112,973506.77,Ativo
+227,Empresa 227 LTDA,São José,Serviços,2012-12-12,99,1461221.09,Ativo
+228,Empresa 228 LTDA,Lages,Turismo,2012-01-09,93,908199.3,Ativo
+229,Empresa 229 LTDA,Florianópolis,Indústria,2016-08-14,146,4488988.85,Ativo
+230,Empresa 230 LTDA,Joinville,Tecnologia,2017-04-30,128,447157.04,Ativo
+231,Empresa 231 LTDA,Florianópolis,Agronegócio,2019-04-27,110,2646331.38,Inativo
+232,Empresa 232 LTDA,São José,Turismo,2013-12-09,82,2081464.29,Ativo
+233,Empresa 233 LTDA,Itajaí,Indústria,2014-07-03,54,4912774.15,Ativo
+234,Empresa 234 LTDA,Joinville,Tecnologia,2012-12-18,68,604592.57,Ativo
+235,Empresa 235 LTDA,,Serviços,2022-02-05,33,2019385.22,Ativo
+236,Empresa 236 LTDA,Chapecó,Serviços,2018-03-17,142,4848878.64,Ativo
+237,Empresa 237 LTDA,Chapecó,Tecnologia,2021-11-27,21,4334260.27,Inativo
+238,Empresa 238 LTDA,Jaraguá do Sul,Serviços,2021-04-03,48,4094506.75,Ativo
+239,Empresa 239 LTDA,Lages,Indústria,2016-02-11,148,1326618.99,Ativo
+240,Empresa 240 LTDA,Blumenau,Turismo,2013-09-09,128,895893.56,Ativo
+241,Empresa 241 LTDA,São José,Serviços,2015-10-07,136,3359783.94,Inativo
+242,Empresa 242 LTDA,Blumenau,Turismo,2020-10-22,135,4650411.15,Ativo
+243,Empresa 243 LTDA,Criciúma,Comércio,2016-08-14,145,2805976.32,Ativo
+244,Empresa 244 LTDA,Lages,Serviços,2017-08-06,128,2879482.81,Ativo
+245,Empresa 245 LTDA,Chapecó,Comércio,2012-08-01,33,1435896.51,Ativo
+246,Empresa 246 LTDA,Joinville,Turismo,2020-07-03,115,3858990.02,Ativo
+247,Empresa 247 LTDA,Lages,Agronegócio,2011-09-09,119,975866.56,Ativo
+248,Empresa 248 LTDA,Jaraguá do Sul,Turismo,2013-02-27,22,1652212.22,Ativo
+249,Empresa 249 LTDA,Joinville,Indústria,2015-01-23,38,2155910.37,Ativo
+250,Empresa 250 LTDA,Florianópolis,Agronegócio,2018-11-30,109,2562671.37,Ativo
+251,Empresa 251 LTDA,Jaraguá do Sul,Agronegócio,2022-07-02,51,1249928.18,Ativo
+252,Empresa 252 LTDA,Florianópolis,Serviços,2018-03-16,8,618442.28,Ativo
+253,Empresa 253 LTDA,,Serviços,2012-01-10,27,3072569.21,Ativo
+254,Empresa 254 LTDA,Chapecó,Serviços,2018-11-07,27,1478721.24,Ativo
+255,Empresa 255 LTDA,Blumenau,Turismo,2010-04-25,21,2927129.2,Ativo
+256,Empresa 256 LTDA,São José,Agronegócio,2015-12-07,30,814095.44,Ativo
+257,Empresa 257 LTDA,Lages,Indústria,2022-01-13,97,2431643.5,Ativo
+258,Empresa 258 LTDA,Lages,Indústria,2012-10-09,28,2686317.69,Ativo
+259,Empresa 259 LTDA,Chapecó,Comércio,2020-03-14,111,306526.51,Ativo
+260,Empresa 260 LTDA,São José,Tecnologia,2018-04-08,61,,Ativo
+261,Empresa 261 LTDA,Florianópolis,Indústria,2015-11-18,48,715352.65,Ativo
+262,Empresa 262 LTDA,Blumenau,Serviços,2023-02-10,147,363706.1,Ativo
+263,Empresa 263 LTDA,São José,Comércio,2018-07-19,4,4950303.15,Ativo
+264,Empresa 264 LTDA,Florianópolis,Serviços,2018-05-02,35,1645651.53,Ativo
+265,Empresa 265 LTDA,São José,Agronegócio,2012-06-06,49,4058878.51,Suspenso
+266,Empresa 266 LTDA,Criciúma,Agronegócio,2015-03-31,17,1310471.24,Ativo
+267,Empresa 267 LTDA,Lages,Turismo,2020-07-29,46,3423438.48,Ativo
+268,Empresa 268 LTDA,Criciúma,Serviços,2010-07-25,117,3813127.91,Ativo
+269,Empresa 269 LTDA,São José,Indústria,2022-08-05,6,2998411.77,Ativo
+270,Empresa 270 LTDA,Jaraguá do Sul,Tecnologia,2017-05-11,99,2384302.13,Inativo
+271,Empresa 271 LTDA,Lages,Serviços,2023-09-07,124,2088612.53,Ativo
+272,Empresa 272 LTDA,Blumenau,Indústria,2014-12-19,37,1776897.92,Ativo
+273,Empresa 273 LTDA,Chapecó,Comércio,2011-06-02,24,4651169.26,Ativo
+274,Empresa 274 LTDA,Criciúma,Serviços,2020-05-31,93,4161566.07,Ativo
+275,Empresa 275 LTDA,Chapecó,Comércio,2016-10-11,46,4826883.21,Ativo
+276,Empresa 276 LTDA,Florianópolis,Indústria,2019-02-27,95,665271.26,Ativo
+277,Empresa 277 LTDA,Balneário Camboriú,Indústria,2012-08-13,99,3667794.0,Ativo
+278,Empresa 278 LTDA,Jaraguá do Sul,Indústria,2013-02-19,116,4694785.26,Ativo
+279,Empresa 279 LTDA,Florianópolis,Indústria,2011-01-07,67,947103.68,Ativo
+280,Empresa 280 LTDA,Itajaí,Agronegócio,2010-11-01,128,379156.52,Ativo
+281,Empresa 281 LTDA,Florianópolis,Turismo,2016-10-29,18,3718547.21,Ativo
+282,Empresa 282 LTDA,Florianópolis,Indústria,2021-01-18,25,2893641.91,Ativo
+283,Empresa 283 LTDA,Balneário Camboriú,Agronegócio,2012-08-09,54,4217052.44,Ativo
+284,Empresa 284 LTDA,Lages,Tecnologia,2012-03-07,58,741873.26,Ativo
+285,Empresa 285 LTDA,Jaraguá do Sul,Agronegócio,2015-04-08,67,3986573.19,Ativo
+286,Empresa 286 LTDA,Jaraguá do Sul,Comércio,2022-01-21,104,1048055.23,Ativo
+287,Empresa 287 LTDA,Blumenau,Tecnologia,2013-01-16,24,860096.92,Ativo
+288,Empresa 288 LTDA,Florianópolis,Comércio,2018-09-19,114,863115.7,Suspenso
+289,Empresa 289 LTDA,Jaraguá do Sul,Turismo,2020-03-05,32,4082144.87,Ativo
+290,Empresa 290 LTDA,Joinville,Serviços,2018-04-28,86,3342726.24,Ativo
+291,Empresa 291 LTDA,Blumenau,Serviços,2022-02-12,127,2639173.85,Ativo
+292,Empresa 292 LTDA,Joinville,Agronegócio,2019-05-27,130,1826210.9,Ativo
+293,Empresa 293 LTDA,Balneário Camboriú,Comércio,2023-03-05,17,4392142.68,Inativo
+294,Empresa 294 LTDA,Joinville,Turismo,2013-06-19,104,1992603.28,Ativo
+295,Empresa 295 LTDA,Chapecó,Serviços,2019-04-22,137,4092167.23,Ativo
+296,Empresa 296 LTDA,São José,Turismo,2012-03-22,43,2223717.8,Ativo
+297,Empresa 297 LTDA,Joinville,Turismo,2020-12-22,39,1915874.93,Inativo
+298,Empresa 298 LTDA,Balneário Camboriú,Serviços,2019-02-26,26,2340264.94,Ativo
+299,Empresa 299 LTDA,Chapecó,Serviços,2016-04-10,99,1541820.48,Ativo
+300,Empresa 300 LTDA,Balneário Camboriú,Tecnologia,2010-09-26,50,3750666.43,Ativo
+301,Empresa 301 LTDA,Balneário Camboriú,Tecnologia,2018-04-24,13,2538465.93,Ativo
+302,Empresa 302 LTDA,Florianópolis,Indústria,2014-11-15,60,1199452.84,Ativo
+303,Empresa 303 LTDA,Balneário Camboriú,Comércio,2019-12-12,135,4502894.14,Ativo
+304,Empresa 304 LTDA,Joinville,Serviços,2019-12-22,57,1950261.55,Ativo
+305,Empresa 305 LTDA,São José,Turismo,2015-04-19,36,2740586.66,Ativo
+306,Empresa 306 LTDA,Balneário Camboriú,Comércio,2018-02-19,20,4537036.95,Inativo
+307,Empresa 307 LTDA,Balneário Camboriú,Indústria,2012-03-24,65,3139978.08,Ativo
+308,Empresa 308 LTDA,Jaraguá do Sul,Turismo,2018-03-29,8,628645.3,Ativo
+309,Empresa 309 LTDA,Itajaí,Agronegócio,2022-03-19,144,4702169.01,Ativo
+310,Empresa 310 LTDA,Criciúma,Indústria,2018-01-17,142,3157154.86,Ativo
+311,Empresa 311 LTDA,Chapecó,Serviços,2011-05-12,115,,Ativo
+312,Empresa 312 LTDA,Itajaí,Agronegócio,2018-12-06,143,739396.76,Ativo
+313,Empresa 313 LTDA,Chapecó,Agronegócio,2016-03-10,92,3980424.69,Ativo
+314,Empresa 314 LTDA,,Indústria,2014-04-04,98,3119360.14,Suspenso
+315,Empresa 315 LTDA,São José,Serviços,2012-09-27,66,2690632.41,Ativo
+316,Empresa 316 LTDA,Blumenau,Turismo,2020-03-14,32,4474768.29,Ativo
+317,Empresa 317 LTDA,Criciúma,Agronegócio,2012-01-21,86,3953556.2,Ativo
+318,Empresa 318 LTDA,Lages,Indústria,2014-10-04,51,800790.65,Ativo
+319,Empresa 319 LTDA,Itajaí,Indústria,2023-05-24,63,1593024.24,Ativo
+320,Empresa 320 LTDA,Joinville,Turismo,2010-06-24,125,1280021.24,Ativo
+321,Empresa 321 LTDA,Florianópolis,Serviços,2011-02-19,58,3732534.15,Ativo
+322,Empresa 322 LTDA,Lages,Indústria,2017-06-25,58,215985.55,Ativo
+323,Empresa 323 LTDA,Balneário Camboriú,Indústria,2015-06-19,86,2870953.94,Ativo
+324,Empresa 324 LTDA,Balneário Camboriú,Indústria,2012-10-28,49,3824170.49,Suspenso
+325,Empresa 325 LTDA,Joinville,Comércio,2022-08-31,70,4389989.9,Ativo
+326,Empresa 326 LTDA,Joinville,Tecnologia,2014-08-09,15,1743304.66,Ativo
+327,Empresa 327 LTDA,Jaraguá do Sul,Turismo,2011-07-17,54,4115223.66,Ativo
+328,Empresa 328 LTDA,Chapecó,Comércio,2022-06-07,101,597627.1,Ativo
+329,Empresa 329 LTDA,Jaraguá do Sul,Indústria,2014-08-25,8,4239938.84,Ativo
+330,Empresa 330 LTDA,Criciúma,Tecnologia,2023-02-25,53,681068.88,Ativo
+331,Empresa 331 LTDA,Blumenau,Turismo,2014-11-05,60,2016572.09,Ativo
+332,Empresa 332 LTDA,Itajaí,Agronegócio,2015-03-24,108,3996612.06,Ativo
+333,Empresa 333 LTDA,Joinville,Turismo,2017-05-15,5,792091.27,Ativo
+334,Empresa 334 LTDA,Chapecó,Comércio,2013-04-23,103,1184794.41,Ativo
+335,Empresa 335 LTDA,Itajaí,Comércio,2023-05-15,6,3625150.21,Ativo
+336,Empresa 336 LTDA,Criciúma,Comércio,2010-01-24,109,3614180.86,Inativo
+337,Empresa 337 LTDA,Blumenau,Turismo,2016-03-21,116,,Ativo
+338,Empresa 338 LTDA,Lages,Serviços,2013-03-31,94,3485044.8,Ativo
+339,Empresa 339 LTDA,Jaraguá do Sul,Indústria,2012-11-30,47,2736485.99,Ativo
+340,Empresa 340 LTDA,Criciúma,Turismo,2022-02-12,99,1296405.34,Ativo
+341,Empresa 341 LTDA,Balneário Camboriú,Agronegócio,2015-08-16,55,1761195.17,Ativo
+342,Empresa 342 LTDA,Jaraguá do Sul,Agronegócio,2013-11-30,52,948908.7,Ativo
+343,Empresa 343 LTDA,Florianópolis,Agronegócio,2012-06-19,144,4546830.28,Ativo
+344,Empresa 344 LTDA,Jaraguá do Sul,Indústria,2010-07-31,13,,Ativo
+345,Empresa 345 LTDA,Criciúma,Tecnologia,2012-12-15,114,2034214.51,Ativo
+346,Empresa 346 LTDA,Joinville,Comércio,2010-05-02,124,2336928.73,Ativo
+347,Empresa 347 LTDA,Blumenau,Indústria,2018-01-13,106,4739052.53,Ativo
+348,Empresa 348 LTDA,,Comércio,2015-05-04,147,809089.45,Ativo
+349,Empresa 349 LTDA,Joinville,Indústria,2023-03-17,145,2951837.67,Ativo
+350,Empresa 350 LTDA,Joinville,Comércio,2017-04-06,120,2554148.96,Ativo
+351,Empresa 351 LTDA,Jaraguá do Sul,Indústria,2010-05-10,63,3076698.47,Ativo
+352,Empresa 352 LTDA,Blumenau,Tecnologia,2013-11-28,19,139645.41,Ativo
+353,Empresa 353 LTDA,Criciúma,Turismo,2015-12-14,92,4367013.35,Ativo
+354,Empresa 354 LTDA,Criciúma,Agronegócio,2011-03-06,58,4663985.5,Ativo
+355,Empresa 355 LTDA,Balneário Camboriú,Comércio,2012-11-04,90,2847409.26,Inativo
+356,Empresa 356 LTDA,,Indústria,2019-06-11,117,3498421.58,Ativo
+357,Empresa 357 LTDA,Itajaí,Tecnologia,2021-10-19,62,4616371.94,Ativo
+358,Empresa 358 LTDA,Chapecó,Tecnologia,2012-07-20,23,3550831.24,Ativo
+359,Empresa 359 LTDA,Criciúma,Agronegócio,2011-06-05,127,805068.26,Ativo
+360,Empresa 360 LTDA,Jaraguá do Sul,Indústria,2020-09-06,137,2902627.38,Ativo
+361,Empresa 361 LTDA,Lages,Turismo,2020-01-21,140,3053239.48,Ativo
+362,Empresa 362 LTDA,Criciúma,Comércio,2018-02-13,129,2149446.82,Ativo
+363,Empresa 363 LTDA,Florianópolis,Turismo,2021-07-06,58,3695398.97,Ativo
+364,Empresa 364 LTDA,Joinville,Serviços,2023-04-26,122,4675116.72,Ativo
+365,Empresa 365 LTDA,São José,Tecnologia,2012-06-12,1,4631564.14,Ativo
+366,Empresa 366 LTDA,Criciúma,Tecnologia,2020-02-20,34,2281654.89,Suspenso
+367,Empresa 367 LTDA,Florianópolis,Agronegócio,2021-04-20,96,610528.33,Ativo
+368,Empresa 368 LTDA,Florianópolis,Indústria,2014-12-20,126,4924963.93,Ativo
+369,Empresa 369 LTDA,Itajaí,Serviços,2010-12-22,118,4202545.53,Ativo
+370,Empresa 370 LTDA,Blumenau,Serviços,2021-09-11,48,667080.27,Inativo
+371,Empresa 371 LTDA,Criciúma,Serviços,2016-10-06,89,4608167.32,Ativo
+372,Empresa 372 LTDA,Blumenau,Indústria,2020-04-10,117,4355986.99,Ativo
+373,Empresa 373 LTDA,Lages,Comércio,2010-09-13,129,2618248.38,Ativo
+374,Empresa 374 LTDA,Jaraguá do Sul,Tecnologia,2011-05-14,16,2976813.41,Ativo
+375,Empresa 375 LTDA,São José,Indústria,2020-09-28,69,2025063.38,Ativo
+376,Empresa 376 LTDA,Jaraguá do Sul,Serviços,2019-01-04,22,321070.11,Ativo
+377,Empresa 377 LTDA,Florianópolis,Tecnologia,2019-07-25,93,1709226.35,Suspenso
+378,Empresa 378 LTDA,Joinville,Tecnologia,2012-06-03,76,4024124.57,Ativo
+379,Empresa 379 LTDA,Joinville,Serviços,2020-12-30,144,72928.51,Ativo
+380,Empresa 380 LTDA,Blumenau,Serviços,2019-12-13,86,1700820.9,Ativo
+381,Empresa 381 LTDA,Jaraguá do Sul,Tecnologia,2011-08-26,29,2020935.03,Ativo
+382,Empresa 382 LTDA,Florianópolis,Agronegócio,2011-10-24,69,2710108.23,Ativo
+383,Empresa 383 LTDA,Itajaí,Turismo,2017-03-23,47,4603285.3,Suspenso
+384,Empresa 384 LTDA,Balneário Camboriú,Turismo,2023-08-24,94,1764412.67,Ativo
+385,Empresa 385 LTDA,Jaraguá do Sul,Tecnologia,2013-04-30,144,1767418.35,Suspenso
+386,Empresa 386 LTDA,Blumenau,Comércio,2011-06-23,85,3700631.18,Suspenso
+387,Empresa 387 LTDA,São José,Comércio,2012-10-30,39,2288478.81,Ativo
+388,Empresa 388 LTDA,Blumenau,Agronegócio,2016-03-02,100,1161793.87,Ativo
+389,Empresa 389 LTDA,Florianópolis,Indústria,2023-02-17,33,2289575.6,Ativo
+390,Empresa 390 LTDA,Criciúma,Tecnologia,2022-04-20,101,747242.25,Ativo
+391,Empresa 391 LTDA,Itajaí,Comércio,2017-04-17,23,923115.58,Ativo
+392,Empresa 392 LTDA,Florianópolis,Tecnologia,2018-07-18,10,2516920.48,Ativo
+393,Empresa 393 LTDA,Itajaí,Agronegócio,2023-05-26,69,2123680.98,Ativo
+394,Empresa 394 LTDA,Chapecó,Serviços,2021-11-25,100,4578487.21,Ativo
+395,Empresa 395 LTDA,Chapecó,Agronegócio,2016-08-12,34,1843849.8,Ativo
+396,Empresa 396 LTDA,Joinville,Agronegócio,2020-03-05,138,2923912.33,Ativo
+397,Empresa 397 LTDA,Itajaí,Agronegócio,2021-05-04,147,3179708.23,Ativo
+398,Empresa 398 LTDA,Jaraguá do Sul,Comércio,2023-07-31,96,,Suspenso
+399,Empresa 399 LTDA,São José,Agronegócio,2019-08-26,1,3334509.99,Ativo
+400,Empresa 400 LTDA,Balneário Camboriú,Serviços,2012-03-23,69,931278.04,Ativo
+401,Empresa 401 LTDA,Blumenau,Serviços,2012-07-26,4,4807298.07,Ativo
+402,Empresa 402 LTDA,Chapecó,Serviços,2022-05-14,16,785880.5,Ativo
+403,Empresa 403 LTDA,Blumenau,Indústria,2014-10-28,24,2102389.41,Ativo
+404,Empresa 404 LTDA,Blumenau,Agronegócio,2019-08-25,80,472480.86,Ativo
+405,Empresa 405 LTDA,São José,Serviços,2020-02-17,2,4984527.55,Suspenso
+406,Empresa 406 LTDA,Florianópolis,Indústria,2015-02-15,128,2535865.3,Ativo
+407,Empresa 407 LTDA,Blumenau,Agronegócio,2019-04-13,84,2997155.84,Inativo
+408,Empresa 408 LTDA,Itajaí,Agronegócio,2017-08-08,140,382028.56,Ativo
+409,Empresa 409 LTDA,São José,Tecnologia,2020-03-04,124,3762304.33,Ativo
+410,Empresa 410 LTDA,Chapecó,Agronegócio,2018-12-11,33,1089032.69,Ativo
+411,Empresa 411 LTDA,Criciúma,Turismo,2019-05-01,101,4495368.73,Ativo
+412,Empresa 412 LTDA,Blumenau,Tecnologia,2012-02-18,12,1065441.22,Ativo
+413,Empresa 413 LTDA,Joinville,Comércio,2017-01-04,67,993904.22,Ativo
+414,Empresa 414 LTDA,São José,Turismo,2019-07-29,65,230920.86,Ativo
+415,Empresa 415 LTDA,Florianópolis,Comércio,2017-01-04,74,2386731.38,Ativo
+416,Empresa 416 LTDA,,Indústria,2015-09-20,43,2845963.61,Ativo
+417,Empresa 417 LTDA,Chapecó,Turismo,2018-05-25,44,375257.77,Ativo
+418,Empresa 418 LTDA,Chapecó,Tecnologia,2013-06-04,29,3888861.7,Ativo
+419,Empresa 419 LTDA,Lages,Comércio,2020-08-21,141,2293779.73,Ativo
+420,Empresa 420 LTDA,Itajaí,Comércio,2011-07-04,12,2645731.83,Ativo
+421,Empresa 421 LTDA,Criciúma,Comércio,2012-01-18,95,2231775.6,Ativo
+422,Empresa 422 LTDA,Chapecó,Agronegócio,2011-12-01,46,2033777.15,Ativo
+423,Empresa 423 LTDA,Chapecó,Tecnologia,2012-02-03,130,2820219.64,Ativo
+424,Empresa 424 LTDA,Florianópolis,Comércio,2019-09-08,35,818439.22,Ativo
+425,Empresa 425 LTDA,Chapecó,Tecnologia,2012-03-02,81,950544.25,Ativo
+426,Empresa 426 LTDA,São José,Serviços,2018-05-11,90,4315838.82,Ativo
+427,Empresa 427 LTDA,Itajaí,Serviços,2012-12-01,8,,Inativo
+428,Empresa 428 LTDA,,Turismo,2022-06-24,93,1897881.12,Ativo
+429,Empresa 429 LTDA,Joinville,Agronegócio,2011-05-07,90,,Ativo
+430,Empresa 430 LTDA,Criciúma,Serviços,2023-02-26,115,3237797.74,Ativo
+431,Empresa 431 LTDA,Itajaí,Indústria,2022-08-06,105,2073234.15,Ativo
+432,Empresa 432 LTDA,Jaraguá do Sul,Tecnologia,2022-08-07,135,175662.46,Inativo
+433,Empresa 433 LTDA,São José,Comércio,2017-05-24,58,822955.36,Ativo
+434,Empresa 434 LTDA,Jaraguá do Sul,Indústria,2012-09-28,114,3594062.53,Inativo
+435,Empresa 435 LTDA,Itajaí,Turismo,2019-03-20,75,3311673.51,Ativo
+436,Empresa 436 LTDA,,Indústria,2017-12-06,120,184125.16,Ativo
+437,Empresa 437 LTDA,Joinville,Turismo,2019-06-27,21,1148762.2,Ativo
+438,Empresa 438 LTDA,Criciúma,Serviços,2011-02-26,138,1193820.24,Ativo
+439,Empresa 439 LTDA,Blumenau,Tecnologia,2016-06-14,101,3375869.08,Suspenso
+440,Empresa 440 LTDA,Balneário Camboriú,Turismo,2023-06-20,99,147567.16,Ativo
+441,Empresa 441 LTDA,Criciúma,Comércio,2017-01-03,36,565337.48,Ativo
+442,Empresa 442 LTDA,Florianópolis,Indústria,2017-11-20,96,4009584.62,Ativo
+443,Empresa 443 LTDA,Joinville,Turismo,2012-04-28,37,933796.08,Ativo
+444,Empresa 444 LTDA,Balneário Camboriú,Agronegócio,2022-12-18,12,3281093.23,Ativo
+445,Empresa 445 LTDA,São José,Turismo,2021-05-19,113,1229004.77,Ativo
+446,Empresa 446 LTDA,Itajaí,Comércio,2014-10-09,13,542234.89,Ativo
+447,Empresa 447 LTDA,Itajaí,Serviços,2013-06-21,23,1253702.35,Ativo
+448,Empresa 448 LTDA,São José,Tecnologia,2020-10-25,99,3625221.31,Ativo
+449,Empresa 449 LTDA,Balneário Camboriú,Agronegócio,2015-01-12,105,4285697.52,Inativo
+450,Empresa 450 LTDA,Jaraguá do Sul,Comércio,2012-06-05,30,,Ativo
+451,Empresa 451 LTDA,Joinville,Turismo,2017-11-08,17,2016058.47,Inativo
+452,Empresa 452 LTDA,São José,Comércio,2022-06-23,113,3357021.43,Ativo
+453,Empresa 453 LTDA,Balneário Camboriú,Indústria,2018-03-31,62,1064672.26,Inativo
+454,Empresa 454 LTDA,Chapecó,Comércio,2012-07-30,84,1501081.26,Ativo
+455,Empresa 455 LTDA,Criciúma,Tecnologia,2016-04-01,112,4486862.3,Inativo
+456,Empresa 456 LTDA,Florianópolis,Tecnologia,2022-11-17,86,114359.52,Ativo
+457,Empresa 457 LTDA,São José,Comércio,2015-01-27,141,,Ativo
+458,Empresa 458 LTDA,Florianópolis,Indústria,2019-08-17,19,1079036.96,Ativo
+459,Empresa 459 LTDA,Jaraguá do Sul,Agronegócio,2022-08-01,100,181334.41,Ativo
+460,Empresa 460 LTDA,Jaraguá do Sul,Turismo,2022-06-27,140,948105.4,Ativo
+461,Empresa 461 LTDA,Chapecó,Agronegócio,2010-08-04,147,2936055.73,Ativo
+462,Empresa 462 LTDA,Itajaí,Indústria,2023-08-29,76,2136051.53,Inativo
+463,Empresa 463 LTDA,São José,Serviços,2015-12-31,9,4468724.97,Ativo
+464,Empresa 464 LTDA,Joinville,Tecnologia,2010-08-26,28,4096345.63,Ativo
+465,Empresa 465 LTDA,Itajaí,Serviços,2014-01-17,128,1741995.89,Ativo
+466,Empresa 466 LTDA,Balneário Camboriú,Turismo,2016-02-17,52,1334146.0,Ativo
+467,Empresa 467 LTDA,Itajaí,Indústria,2016-12-06,83,1929477.42,Ativo
+468,Empresa 468 LTDA,Joinville,Turismo,2017-08-15,111,2971959.97,Ativo
+469,Empresa 469 LTDA,Criciúma,Serviços,2017-11-15,144,1376915.02,Ativo
+470,Empresa 470 LTDA,Jaraguá do Sul,Indústria,2010-02-20,117,3139537.09,Ativo
+471,Empresa 471 LTDA,Criciúma,Agronegócio,2014-01-26,69,2076587.68,Ativo
+472,Empresa 472 LTDA,São José,Agronegócio,2013-03-19,99,2782633.55,Ativo
+473,Empresa 473 LTDA,Itajaí,Serviços,2022-09-14,140,2208826.32,Ativo
+474,Empresa 474 LTDA,São José,Serviços,2018-12-28,25,1507605.51,Ativo
+475,Empresa 475 LTDA,Criciúma,Tecnologia,2011-07-25,123,4744843.87,Ativo
+476,Empresa 476 LTDA,Jaraguá do Sul,Agronegócio,2013-03-08,53,3829848.68,Inativo
+477,Empresa 477 LTDA,Blumenau,Tecnologia,2010-09-09,144,743560.22,Ativo
+478,Empresa 478 LTDA,Chapecó,Serviços,2012-01-22,57,4348916.48,Suspenso
+479,Empresa 479 LTDA,São José,Turismo,2021-11-24,39,2462784.43,Ativo
+480,Empresa 480 LTDA,São José,Indústria,2014-10-29,109,4478033.52,Ativo
+481,Empresa 481 LTDA,Blumenau,Agronegócio,2018-06-09,42,4009283.52,Ativo
+482,Empresa 482 LTDA,Balneário Camboriú,Indústria,2019-06-02,142,2154806.85,Ativo
+483,Empresa 483 LTDA,Balneário Camboriú,Tecnologia,2020-03-05,122,161223.08,Ativo
+484,Empresa 484 LTDA,Criciúma,Tecnologia,2017-08-24,133,1379952.93,Ativo
+485,Empresa 485 LTDA,São José,Comércio,2013-07-13,75,2731089.36,Ativo
+486,Empresa 486 LTDA,Jaraguá do Sul,Turismo,2018-04-20,146,3185717.19,Ativo
+487,Empresa 487 LTDA,Florianópolis,Agronegócio,2016-12-27,76,1326544.04,Ativo
+488,Empresa 488 LTDA,Criciúma,Agronegócio,2017-04-11,9,739812.57,Ativo
+489,Empresa 489 LTDA,,Tecnologia,2022-09-24,74,4182904.67,Inativo
+490,Empresa 490 LTDA,Chapecó,Turismo,2023-05-17,145,4922790.79,Inativo
+491,Empresa 491 LTDA,São José,Indústria,2011-11-27,7,2652166.4,Ativo
+492,Empresa 492 LTDA,,Agronegócio,2011-03-07,141,899812.46,Suspenso
+493,Empresa 493 LTDA,Balneário Camboriú,Tecnologia,2013-06-28,137,1397921.27,Inativo
+494,Empresa 494 LTDA,Itajaí,Comércio,2013-07-13,27,,Ativo
+495,Empresa 495 LTDA,Lages,Serviços,2011-02-12,122,4575779.09,Inativo
+496,Empresa 496 LTDA,Lages,Agronegócio,2011-10-31,5,632867.86,Ativo
+497,Empresa 497 LTDA,Lages,Turismo,2016-02-08,29,2903756.55,Ativo
+498,Empresa 498 LTDA,Chapecó,Serviços,2019-12-09,83,1406573.34,Ativo
+499,Empresa 499 LTDA,,Indústria,2019-07-06,136,2793181.11,Suspenso
+500,Empresa 500 LTDA,Lages,Comércio,2020-11-22,109,3274530.92,Ativo
